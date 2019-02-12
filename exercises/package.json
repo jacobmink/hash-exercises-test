@@ -1,0 +1,11 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Exercises for hash tables",
+  "main": "HashTable.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
